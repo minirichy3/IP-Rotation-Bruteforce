@@ -13,7 +13,7 @@ CookieAuthentication 0
 ```
 
 ## Usage
-```bash
+```text
 usage: bruteforce_rotation.py [-h] -u USERS -w WORDLIST [-c COUNT] target uri
 
 Programa que realitza força bruta i cada cert intents canvia de IP per evitar filtres de WAF
